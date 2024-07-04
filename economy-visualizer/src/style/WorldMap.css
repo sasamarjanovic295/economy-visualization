@@ -1,0 +1,6 @@
+.legend > .axis > path {
+    stroke: none;
+}
+.legend-axis > path.domain {
+    display: none;
+}
